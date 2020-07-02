@@ -8,7 +8,7 @@ author: TakayamaAren
 YouComic作为Project-XPolaris的一员，是针对文件服务器进行内容管理的一个套件，其下有多个工具可以提供相应的功能。YouComic主要围绕三个方面进行开发，专注于“标准化资源-管理资源-访问资源”这三个方向。<!--more-->
 
 ## YouComic Studio
-
+![](/assets/images/article/1/youcomic-studio_banner.png)
 [YouComic Studio](https://github.com/Project-XPolaris/YouComic-Studio)是关注于将资源标准化的工具。也是YouComic服务的入口。
 
 主要支持的功能：
